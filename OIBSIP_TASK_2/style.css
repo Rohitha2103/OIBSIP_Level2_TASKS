@@ -1,0 +1,96 @@
+/* style.css */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+/* Main container styles */
+#main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styles */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Title styles */
+#title {
+  color: #333;
+}
+
+/* Image styles */
+#img-div {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Image caption styles */
+#img-caption {
+  text-align: center;
+  color: #0b0b0b;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+/* Tribute info styles */
+#tribute-info {
+  margin-bottom: 20px;
+  background-color: rgb(113, 144, 154);
+  color: #fff;
+  padding: 20px;
+}
+
+/* Heading styles */
+h1, h2 {
+  color: #090909;
+}
+
+/* Paragraph styles */
+p {
+  color: #fff;
+  line-height: 1.6;
+}
+
+/* Link styles */
+#tribute-link {
+  display: block;
+  text-align: center;
+  color: #777;
+  margin-bottom: 20px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#tribute-link:hover {
+  color: #333;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  color: #5ea0b4;
+  margin-top: 20px;
+}
+#copyRight {
+  text-align: center;
+  color: #cc16b1;
+  margin-top: 20px;
+}
